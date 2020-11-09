@@ -1,0 +1,4 @@
+krishna = srikrishna350 <javvaji.bunny@gmail.com>
+sanil   = sanil <sanil.rodigrues@dymensions.io>
+sadmin = sadmin <sadmin@gmail.com>
+krishna.javvaji = krishna.javvaji <krishna.javvaji@dymensions.io>
